@@ -1,0 +1,6 @@
+INSERT INTO tough_jet(flight_id, number_of_adults, base_price, tax, discount)
+values(1, 4, 750.00, 20.00, 5.00);
+INSERT INTO tough_jet(flight_id, number_of_adults, base_price, tax, discount)
+values(2, 3,600.00,15.00, 10.00);
+INSERT INTO tough_jet(flight_id, number_of_adults, base_price, tax, discount)
+values(3, 2,960.00,30.00, 12.00);

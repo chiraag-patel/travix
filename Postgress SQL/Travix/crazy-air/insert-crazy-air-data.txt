@@ -1,0 +1,4 @@
+INSERT INTO crazy_air(flight_id, passenger_count, fare, cabin_class)values(1, 4, 450.00,'E');
+INSERT INTO crazy_air(flight_id, passenger_count, fare, cabin_class)values(2, 2,700.00,'B');
+INSERT INTO crazy_air(flight_id, passenger_count, fare, cabin_class)values(3, 4,560.00,'E');
+

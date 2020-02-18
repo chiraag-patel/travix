@@ -1,0 +1,29 @@
+CREATE SEQUENCE public.tough_jet_id_seq
+    INCREMENT 1
+    START 1
+    MINVALUE 1
+    MAXVALUE 9223372036854775807
+    CACHE 1;
+
+ALTER SEQUENCE public.tough_jet_id_seq
+    OWNER TO postgres;
+
+GRANT ALL ON SEQUENCE public.tough_jet_id_seq TO travix;
+
+CREATE TABLE public.tough_jet
+(
+    id integer NOT NULL DEFAULT nextval('tough_jet_id_seq'::regclass),
+	flight_id integer REFERENCES flight(id),
+    number_of_adults integer,
+	base_price numeric(9,2),
+	tax numeric(5,2),
+	discount numeric(5,2),
+    CONSTRAINT tough_jet_pkey PRIMARY KEY (id)
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE public.tough_jet
+    OWNER to postgres;
+
+GRANT ALL ON TABLE public.tough_jet TO travix;

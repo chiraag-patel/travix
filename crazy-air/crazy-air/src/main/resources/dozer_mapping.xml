@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mappings xmlns="http://dozer.sourceforge.net"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dozer.sourceforge.net
+      http://dozer.sourceforge.net/schema/beanmapping.xsd">
+    <mapping>
+        <class-a>com.travix.medusa.busyflights.domain.entity.CrazyAir</class-a>
+        <class-b>com.travix.medusa.busyflights.domain.dto.CrazyAirDTO</class-b>
+        <field>
+            <a>flight.airline</a>
+            <b>airline</b>
+        </field>
+        <field>
+            <a>flight.origin</a>
+            <b>departureAirportCode</b>
+        </field>
+        <field>
+            <a>flight.destination</a>
+            <b>destinationAirportCode</b>
+        </field>
+        <field>
+            <a>flight.departureDate</a>
+            <b>departureDate</b>
+        </field>
+        <field>
+            <a>flight.returnDate</a>
+            <b>arrivalDate</b>
+        </field>
+        <field>
+            <a>fare</a>
+            <b>price</b>
+        </field>
+
+    </mapping>
+</mappings>

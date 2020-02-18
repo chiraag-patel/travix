@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec6456b0-5a93-44ac-861f-9174d7821dbb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XolfvavW2t19e6tssH0JBjUrn4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../flight" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.travix.medusa.busyflights.util" />
+      <recent name="com.travix.medusa.busyflights.service" />
+      <recent name="com.travix.medusa.busyflights.domain.entity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ToughJetAPI">
+    <configuration name="NumberUtilTest.testCalculateFinalAmount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="toughJet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.travix.medusa.busyflights.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.travix.medusa.busyflights" />
+      <option name="MAIN_CLASS_NAME" value="com.travix.medusa.busyflights.NumberUtilTest" />
+      <option name="METHOD_NAME" value="testCalculateFinalAmount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberUtilTest.testCalculateFinalAmountWithDiscount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="toughJet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.travix.medusa.busyflights.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.travix.medusa.busyflights" />
+      <option name="MAIN_CLASS_NAME" value="com.travix.medusa.busyflights.NumberUtilTest" />
+      <option name="METHOD_NAME" value="testCalculateFinalAmountWithDiscount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberUtilTest.testCalculateFinalAmountWithOutTax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="toughJet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.travix.medusa.busyflights.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.travix.medusa.busyflights" />
+      <option name="MAIN_CLASS_NAME" value="com.travix.medusa.busyflights.NumberUtilTest" />
+      <option name="METHOD_NAME" value="testCalculateFinalAmountWithOutTax" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberUtilTest.testCalculateFinalAmountWithoutDiscountAndWithoutTax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="toughJet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.travix.medusa.busyflights.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.travix.medusa.busyflights" />
+      <option name="MAIN_CLASS_NAME" value="com.travix.medusa.busyflights.NumberUtilTest" />
+      <option name="METHOD_NAME" value="testCalculateFinalAmountWithoutDiscountAndWithoutTax" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToughJetServiceImplTest.testGetFlights" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="toughJet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.travix.medusa.busyflights.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.travix.medusa.busyflights" />
+      <option name="MAIN_CLASS_NAME" value="com.travix.medusa.busyflights.ToughJetServiceImplTest" />
+      <option name="METHOD_NAME" value="testGetFlights" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean install" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/tough-jet" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="ToughJetAPI" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="toughJet" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.travix.medusa.busyflights.ToughJetApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.NumberUtilTest.testCalculateFinalAmount" />
+      <item itemvalue="JUnit.NumberUtilTest.testCalculateFinalAmountWithOutTax" />
+      <item itemvalue="JUnit.NumberUtilTest.testCalculateFinalAmountWithDiscount" />
+      <item itemvalue="JUnit.NumberUtilTest.testCalculateFinalAmountWithoutDiscountAndWithoutTax" />
+      <item itemvalue="Maven.clean install" />
+      <item itemvalue="Spring Boot.ToughJetAPI" />
+      <item itemvalue="JUnit.ToughJetServiceImplTest.testGetFlights" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ToughJetServiceImplTest.testGetFlights" />
+        <item itemvalue="JUnit.NumberUtilTest.testCalculateFinalAmountWithoutDiscountAndWithoutTax" />
+        <item itemvalue="JUnit.NumberUtilTest.testCalculateFinalAmountWithDiscount" />
+        <item itemvalue="JUnit.NumberUtilTest.testCalculateFinalAmountWithOutTax" />
+        <item itemvalue="JUnit.NumberUtilTest.testCalculateFinalAmount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec6456b0-5a93-44ac-861f-9174d7821dbb" name="Default Changelist" comment="" />
+      <created>1581720435547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581720435547</updated>
+      <workItem from="1581720437273" duration="148000" />
+      <workItem from="1581720618228" duration="675000" />
+      <workItem from="1581722184077" duration="4671000" />
+      <workItem from="1581774355233" duration="9336000" />
+      <workItem from="1581784138318" duration="127000" />
+      <workItem from="1581784432935" duration="10813000" />
+      <workItem from="1581863964357" duration="2783000" />
+      <workItem from="1581882415085" duration="3065000" />
+      <workItem from="1581968468304" duration="2406000" />
+      <workItem from="1582055762560" duration="4686000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="564" y="246" key="#Assign_Data_Sources" timestamp="1581779736706">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="564" y="246" key="#Assign_Data_Sources/0.0.1858.1080@0.0.1858.1080" timestamp="1581779736706" />
+    <state x="344" y="216" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581798877252">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="344" y="216" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1581798877252" />
+    <state x="734" y="224" key="#com.intellij.ide.util.MemberChooser" timestamp="1582059791891">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="734" y="224" key="#com.intellij.ide.util.MemberChooser/0.0.1858.1080@0.0.1858.1080" timestamp="1582059791891" />
+    <state x="619" y="345" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581784501560">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="619" y="345" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1581784501560" />
+    <state x="802" y="451" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581720465857">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="802" y="451" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1581720465857" />
+    <state x="200" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581887461841">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="200" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1581887461841" />
+    <state x="684" y="243" width="858" height="594" key="#xdebugger.evaluate" timestamp="1581890933965">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="684" y="243" width="858" height="594" key="#xdebugger.evaluate/0.0.1858.1080@0.0.1858.1080" timestamp="1581890933965" />
+    <state width="432" height="466" key="DebuggerActiveHint" timestamp="1582059864363">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="432" height="466" key="DebuggerActiveHint/0.0.1858.1080@0.0.1858.1080" timestamp="1582059864363" />
+    <state x="670" y="316" key="FileChooserDialogImpl" timestamp="1581875450446">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="670" y="316" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1581875450446" />
+    <state width="1815" height="287" key="GridCell.Tab.0.bottom" timestamp="1582061071816">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="287" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1582061071816" />
+    <state width="1815" height="287" key="GridCell.Tab.0.center" timestamp="1582061071816">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="287" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1582061071816" />
+    <state width="1815" height="287" key="GridCell.Tab.0.left" timestamp="1582061071816">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="287" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1582061071816" />
+    <state width="1815" height="287" key="GridCell.Tab.0.right" timestamp="1582061071816">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="287" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1582061071816" />
+    <state width="1815" height="352" key="GridCell.Tab.1.bottom" timestamp="1582061071802">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="352" key="GridCell.Tab.1.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1582061071802" />
+    <state width="1815" height="352" key="GridCell.Tab.1.center" timestamp="1582061071802">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="352" key="GridCell.Tab.1.center/0.0.1858.1080@0.0.1858.1080" timestamp="1582061071802" />
+    <state width="1815" height="352" key="GridCell.Tab.1.left" timestamp="1582061071802">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="352" key="GridCell.Tab.1.left/0.0.1858.1080@0.0.1858.1080" timestamp="1582061071802" />
+    <state width="1815" height="352" key="GridCell.Tab.1.right" timestamp="1582061071802">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="352" key="GridCell.Tab.1.right/0.0.1858.1080@0.0.1858.1080" timestamp="1582061071802" />
+    <state width="1815" height="352" key="GridCell.Tab.2.bottom" timestamp="1582061071803">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="352" key="GridCell.Tab.2.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1582061071803" />
+    <state width="1815" height="352" key="GridCell.Tab.2.center" timestamp="1582061071803">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="352" key="GridCell.Tab.2.center/0.0.1858.1080@0.0.1858.1080" timestamp="1582061071803" />
+    <state width="1815" height="352" key="GridCell.Tab.2.left" timestamp="1582061071802">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="352" key="GridCell.Tab.2.left/0.0.1858.1080@0.0.1858.1080" timestamp="1582061071802" />
+    <state width="1815" height="352" key="GridCell.Tab.2.right" timestamp="1582061071803">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="352" key="GridCell.Tab.2.right/0.0.1858.1080@0.0.1858.1080" timestamp="1582061071803" />
+    <state x="605" y="264" key="Maven.ArtifactSearchDialog" timestamp="1581722924841">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="605" y="264" key="Maven.ArtifactSearchDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1581722924841" />
+    <state x="370" y="135" key="SettingsEditor" timestamp="1581720775643">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="370" y="135" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1581720775643" />
+    <state x="587" y="385" key="com.intellij.ide.util.TipDialog" timestamp="1581720638850">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="587" y="385" key="com.intellij.ide.util.TipDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1581720638850" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/crazy-air/src/main/java/com/travix/medusa/busyflights/service/impl/CrazyAirServiceImpl.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tough-jet/src/test/java/com/travix/medusa/busyflights/ToughJetServiceImplTest.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

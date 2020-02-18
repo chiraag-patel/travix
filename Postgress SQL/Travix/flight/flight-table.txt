@@ -1,0 +1,30 @@
+CREATE SEQUENCE public.flight_id_seq
+    INCREMENT 1
+    START 1
+    MINVALUE 1
+    MAXVALUE 9223372036854775807
+    CACHE 1;
+
+ALTER SEQUENCE public.flight_id_seq
+    OWNER TO postgres;
+
+GRANT ALL ON SEQUENCE public.flight_id_seq TO travix;
+
+CREATE TABLE public.flight
+(
+    id integer NOT NULL DEFAULT nextval('flight_id_seq'::regclass),
+	airline character varying(255) COLLATE pg_catalog."default",
+    origin character varying(3) COLLATE pg_catalog."default",
+    destination character varying(3) COLLATE pg_catalog."default",
+    departure_date timestamp,
+    return_date timestamp,
+    CONSTRAINT flight_pkey PRIMARY KEY (id)
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE public.flight
+    OWNER to postgres;
+
+GRANT ALL ON TABLE public.flight TO travix;
+

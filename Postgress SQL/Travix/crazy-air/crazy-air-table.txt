@@ -1,0 +1,28 @@
+CREATE SEQUENCE public.crazy_air_id_seq
+    INCREMENT 1
+    START 1
+    MINVALUE 1
+    MAXVALUE 9223372036854775807
+    CACHE 1;
+
+ALTER SEQUENCE public.crazy_air_id_seq
+    OWNER TO postgres;
+
+GRANT ALL ON SEQUENCE public.crazy_air_id_seq TO travix;
+
+CREATE TABLE public.crazy_air
+(
+    id integer NOT NULL DEFAULT nextval('crazy_air_id_seq'::regclass),
+	flight_id integer REFERENCES flight(id),
+    passenger_count integer,
+	fare numeric(9,2),
+	cabin_class character varying(1) COLLATE pg_catalog."default",
+    CONSTRAINT crazy_air_pkey PRIMARY KEY (id)
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE public.crazy_air
+    OWNER to postgres;
+
+GRANT ALL ON TABLE public.crazy_air TO travix;

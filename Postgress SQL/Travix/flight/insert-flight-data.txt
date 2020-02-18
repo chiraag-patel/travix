@@ -1,0 +1,6 @@
+INSERT INTO flight(airline, origin, destination, departure_date, return_date)
+values('British Airways','LHR','AMS', '2020-2-10'::timestamp, '2020-2-19'::timestamp);
+INSERT INTO flight(airline, origin, destination, departure_date, return_date)
+values('British Airways','LGW','CDG', '2020-3-12'::timestamp, '2020-3-13'::timestamp);
+INSERT INTO flight(airline, origin, destination, departure_date, return_date)
+values('Virgin Atlantic','NYC ','LHR', '2020-3-01'::timestamp, '2020-4-01'::timestamp);
